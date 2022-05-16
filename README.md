@@ -113,3 +113,12 @@ Untuk menentukan umur berdasarkan tgl lahir, saya menggunakan ``date_diff()`` ya
 
 Untuk Menentukan gaji sesuai dengan pilihan pekerjaan, saya menggunakan pengkondisian ``if()`` dan untuk opsi pilihan html menggunakan type `select`. dimana jika saya memilih dokter maka gaji saya adalah 10jt /bulan, jika tidak maka saya akan memilih pilihan selanjutnya. dst sampai tidak ada pilihan yang tersisa
 
+### Form Input
+![img2!](assets/img/praktikum/form.png)
+
+Untuk form saya menggunakan method `POST`, dan action ``$_SERVER["PHP_SELF"]`` yaitu variabel super global yang mengembalikan nama file dari skript yang sedang dieksekusi. Jadi ``$_SERVER["PHP_SELF"]`` mengirimkan data formulir yang dikirimkan ke halaman itu sendiri
+
+### Form Output
+![img2!](assets/img/praktikum/output.png)
+
+
