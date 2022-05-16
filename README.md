@@ -37,3 +37,14 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 http://localhost/lab7_php_dasar/
 
 ![img2!](assets/img/3/22.png)
+
+## 4. PHP Dasar
+Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
+kode seperti berikut.
+
+![img2!](assets/img/4/1.png)
+
+Kemudian untuk mengakses hasilnya melalui URL:
+http://localhost/lab7_php_dasar/php_dasar.php
+
+![img2!](assets/img/4/2.png)
