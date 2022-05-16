@@ -36,16 +36,4 @@ Buat folder lab7_php_dasar pada root directory web server (\xampp\htdocs)
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/
 
-![img2!](assets/img/3/2.png)
-
-
-### 2. Navbar
-Buat komponen website yang berupa menu. yang biasanya diletakkan pada header website.
-
-Untuk mencari component klik menu documentation pada web bootstrap
-
-![img2!](assets/img/2/2.png)
-
-![img2!](assets/img/2/2-1.png)
-
-### 3. Jumbotron
+![img2!](assets/img/3/22.png)
