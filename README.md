@@ -87,3 +87,8 @@ http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
 ### Perulangan do while
 ![img2!](assets/img/5/18.png)
 
+## Pertanyaan dan Tugas
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
+nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
+umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
+berbeda-beda sesuai pilihan pekerjaan.
