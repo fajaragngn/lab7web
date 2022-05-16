@@ -95,5 +95,3 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 
 ## Jawab
 
-
-berbeda-beda sesuai pilihan pekerjaan.
