@@ -111,5 +111,5 @@ Untuk menentukan umur berdasarkan tgl lahir, saya menggunakan ``date_diff()`` ya
 ### Menentukan gaji sesuai dengan pilihan pekerjaan
 ![img2!](assets/img/praktikum/gaji.png)
 
-Untuk Menentukan gaji sesuai dengan pilihan pekerjaan, saya menggunakan pengkondisian ``if()`` 
+Untuk Menentukan gaji sesuai dengan pilihan pekerjaan, saya menggunakan pengkondisian ``if()`` dan untuk opsi pilihan html menggunakan type `select`. dimana jika saya memilih dokter maka gaji saya adalah 10jt /bulan, jika tidak maka saya akan memilih pilihan selanjutnya. dst sampai tidak ada pilihan yang tersisa
 
