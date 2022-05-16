@@ -125,4 +125,8 @@ Untuk form saya menggunakan method `POST`, dan action ``$_SERVER["PHP_SELF"]`` y
 ### Form Output
 ![img2!](assets/img/praktikum/output.png)
 
+didalam kolom tabel saya menyisipkan sintaks php ke dalam html supaya pas nanti di run akan muncul output yg sebelumnya sudah di input
+
+untuk kolom umur dan gaji saya memanggil file php terpisah, tujuan nya agar penulisan kode terlihat lebih rapi
+
 
