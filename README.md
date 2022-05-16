@@ -99,9 +99,13 @@ berbeda-beda sesuai pilihan pekerjaan.
 ![img2!](assets/img/praktikum/1.png)
 
 terdapat folder core yang berisi file umur.php dan gaji.php
-dimana file umur.php untuk menampilkan output dengan menghitung
-umur berdasarkan inputan tanggal lahir, Dan file gaji.php untuk menentukan gaji yang berbeda-beda sesuai pilihan pekerjaan.
-dan file index.php sebagai halaman utama dalam program sederhana ini
+
+dimana file `umur.php` untuk menampilkan output dengan menghitung
+umur berdasarkan inputan tanggal lahir, 
+
+Lalu file `gaji.php` untuk menentukan gaji yang berbeda-beda sesuai pilihan pekerjaan,
+
+dan file `index.php` sebagai halaman utama dalam program sederhana ini.
 
 ### Menentukan umur berdasarkan tanggal lahir
 ![img2!](assets/img/praktikum/umur.png)
