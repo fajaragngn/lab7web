@@ -52,6 +52,6 @@ http://localhost/lab7_php_dasar/php_dasar.php
 ### Variable PHP
 Menambahkan variable pada program.
 
-![img2!](assets/img/5/3.png)
+![img2!](assets/img/4/3.png)
 
-![img2!](assets/img/5/4.png)
+![img2!](assets/img/4/4.png)
