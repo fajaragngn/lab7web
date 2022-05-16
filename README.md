@@ -63,3 +63,5 @@ Untuk mengaksesnya gunakan URL:
 http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
 
 ![img2!](assets/img/4/6.png)
+
+## 5. Membuat Form Input
