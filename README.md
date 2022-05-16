@@ -75,3 +75,6 @@ http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
 ### Kondisi IF
 ![img2!](assets/img/5/14.png)
 
+### Kondisi Switch
+![img2!](assets/img/5/15.png)
+
