@@ -81,3 +81,5 @@ http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
 ### Perulangan for
 ![img2!](assets/img/5/16.png)
 
+### Perulangan while
+![img2!](assets/img/5/17.png)
