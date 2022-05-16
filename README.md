@@ -129,4 +129,11 @@ didalam kolom tabel saya menyisipkan sintaks php ke dalam html supaya pas nanti 
 
 untuk kolom umur dan gaji saya memanggil file php terpisah, tujuan nya agar penulisan kode terlihat lebih rapi
 
+## Output
+![img2!](assets/img/praktikum/11.png)
+
+![img2!](assets/img/praktikum/12.png)
+
+![img2!](assets/img/praktikum/13.png)
+
 
