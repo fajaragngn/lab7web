@@ -48,3 +48,10 @@ Kemudian untuk mengakses hasilnya melalui URL:
 http://localhost/lab7_php_dasar/php_dasar.php
 
 ![img2!](assets/img/4/2.png)
+
+### Variable PHP
+Menambahkan variable pada program.
+
+![img2!](assets/img/5/3.png)
+
+![img2!](assets/img/5/4.png)
