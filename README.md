@@ -84,6 +84,6 @@ http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
 ### Perulangan while
 ![img2!](assets/img/5/17.png)
 
-### Perulangan dowhile
+### Perulangan do while
 ![img2!](assets/img/5/18.png)
 
