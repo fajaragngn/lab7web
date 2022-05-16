@@ -55,3 +55,11 @@ Menambahkan variable pada program.
 ![img2!](assets/img/4/3.png)
 
 ![img2!](assets/img/4/4.png)
+
+### Predefine Variable `$_GET`
+![img2!](assets/img/4/5.png)
+
+Untuk mengaksesnya gunakan URL:
+http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
+
+![img2!](assets/img/4/6.png)
