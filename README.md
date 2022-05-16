@@ -78,3 +78,6 @@ http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
 ### Kondisi Switch
 ![img2!](assets/img/5/15.png)
 
+### Perulangan for
+![img2!](assets/img/5/16.png)
+
