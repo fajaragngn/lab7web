@@ -94,4 +94,14 @@ umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
 ## Jawab
+### Pertama saya akan membuat 1 module dan 3 package
+
+![img2!](assets/img/praktikum/1.png)
+
+terdapat folder core yang berisi file umur.php dan gaji.php
+dimana file umur.php untuk menampilkan output dengan menghitung
+umur berdasarkan inputan tanggal lahir, Dan file gaji.php untuk menentukan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+dan file index.php sebagai halaman utama dalam program sederhana ini
+
+Untuk membuat program sederhana ini saya menggunakan
 
