@@ -106,5 +106,10 @@ dan file index.php sebagai halaman utama dalam program sederhana ini
 ### Menentukan umur berdasarkan tanggal lahir
 ![img2!](assets/img/praktikum/umur.png)
 
-Untuk menentukan umur berdasarkan tgl lahir, saya menggunakan ``date_diff()`` yang berfungsi untuk menghitung selisih waktu
+Untuk menentukan umur berdasarkan tgl lahir, saya menggunakan ``date_diff()`` yang berfungsi untuk menghitung selisih waktu dengan format penulisan seperti diatas
+
+### Menentukan gaji sesuai dengan pilihan pekerjaan
+![img2!](assets/img/praktikum/gaji.png)
+
+Untuk Menentukan gaji sesuai dengan pilihan pekerjaan, saya menggunakan pengkondisian ``if()`` 
 
