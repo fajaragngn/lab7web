@@ -72,4 +72,6 @@ http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
 ### Operator
 ![img2!](assets/img/5/13.png)
 
+### Kondisi IF
+![img2!](assets/img/5/14.png)
 
