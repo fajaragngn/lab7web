@@ -108,7 +108,7 @@ Lalu file `gaji.php` untuk menentukan gaji yang berbeda-beda sesuai pilihan peke
 dan file `index.php` sebagai halaman utama dalam program sederhana ini.
 
 ### Menentukan umur berdasarkan tanggal lahir
-![img2!](assets/img/praktikum/u.png)
+![img2!](assets/img/praktikum/umr.png)
 
 Untuk menentukan umur berdasarkan tgl lahir, saya menggunakan ``date_diff()`` yang berfungsi untuk menghitung selisih waktu dengan format penulisan seperti diatas
 
