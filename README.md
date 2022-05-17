@@ -113,7 +113,7 @@ dan file `index.php` sebagai halaman utama dalam program sederhana ini.
 Untuk menentukan umur berdasarkan tgl lahir, saya menggunakan ``date_diff()`` yang berfungsi untuk menghitung selisih waktu dengan format penulisan seperti diatas
 
 ### Menentukan gaji sesuai dengan pilihan pekerjaan
-![img2!](assets/img/praktikum/gaji.png)
+![img2!](assets/img/praktikum/g.png)
 
 Untuk Menentukan gaji sesuai dengan pilihan pekerjaan, saya menggunakan pengkondisian ``if()`` dan untuk opsi pilihan html menggunakan type `select`. dimana jika saya memilih dokter maka gaji saya adalah 10jt /bulan, jika tidak maka saya akan memilih pilihan selanjutnya. dst sampai tidak ada pilihan yang tersisa
 
@@ -123,17 +123,17 @@ Untuk Menentukan gaji sesuai dengan pilihan pekerjaan, saya menggunakan pengkond
 Untuk form saya menggunakan method `POST`, dan action ``$_SERVER["PHP_SELF"]`` yaitu variabel super global yang mengembalikan nama file dari skript yang sedang dieksekusi. Jadi ``$_SERVER["PHP_SELF"]`` mengirimkan data formulir yang dikirimkan ke halaman itu sendiri
 
 ### Form Output
-![img2!](assets/img/praktikum/output.png)
+![img2!](assets/img/praktikum/o.png)
 
 didalam kolom tabel saya menyisipkan sintaks php ke dalam html supaya pas nanti di run akan muncul output yg sebelumnya sudah di input
 
 untuk kolom umur dan gaji saya memanggil file php terpisah, tujuan nya agar penulisan kode terlihat lebih rapi
 
 ## Output
-![img2!](assets/img/praktikum/11.png)
+![img2!](assets/img/praktikum/14.png)
 
-![img2!](assets/img/praktikum/12.png)
+![img2!](assets/img/praktikum/15.png)
 
-![img2!](assets/img/praktikum/13.png)
+![img2!](assets/img/praktikum/16.png)
 
 
